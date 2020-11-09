@@ -1,0 +1,33 @@
+.topnav-centered a {
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.navbar-nav {
+    float: none;
+    position: fixed;
+    background-color: #ebebeb;
+    opacity: 100%;
+    font-size: 18;
+    padding: 5px;
+}
+.p {
+    background-color: #ebebeb;
+}
+.jumbotron{
+    background-image: url('bg.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 -130px;
+    overflow: hidden;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
